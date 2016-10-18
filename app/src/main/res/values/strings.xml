@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestHello</string>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="recordbutton">刻录</string>
+    <string name="stopbutton">停止</string>
+</resources>
